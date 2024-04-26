@@ -15,20 +15,21 @@ This repository is dedicated to learning and mastering Machine Learning Operatio
 
 ## Topics 
 
-1️⃣ : Introduction to MLOps
-2️⃣ : Version Control
-3️⃣ : Continuous Integration/Continuous Deployment (CI/CD)
-4️⃣ : Model Training Infrastructure
-5️⃣ : Model Deployment Strategies
-6️⃣ : Containerization
-7️⃣ : Model Monitoring
-8️⃣ : Model Governance and Compliance
-9️⃣ : Scalability and Resource Management
-1️⃣0️⃣ : Data Pipelines and Feature Engineering
-1️⃣1️⃣ : Experiment Tracking and Model Evaluation
-1️⃣2️⃣ : Model Serving and Inference
-1️⃣3️⃣ : Error Handling and Model Rollback
-1️⃣4️⃣ : Collaboration and Communication
+1. Introduction to MLOps
+2. Version Control
+3. Continuous Integration/Continuous Deployment (CI/CD)
+4. Model Training Infrastructure
+5. Model Deployment Strategies
+6. Containerization
+7. Model Monitoring
+8. Model Governance and Compliance
+9. Scalability and Resource Management
+10. Data Pipelines and Feature Engineering
+11. Experiment Tracking and Model Evaluation
+12. Model Serving and Inference
+13. Error Handling and Model Rollback
+14. Collaboration and Communication
+
 
 
 ## Getting Started
