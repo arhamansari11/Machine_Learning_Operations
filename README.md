@@ -13,6 +13,24 @@ This repository is dedicated to learning and mastering Machine Learning Operatio
 - **Resources**: Links to external resources such as articles, papers, and tutorials for further learning.
 - **Interview Prep**: Tips, guides, and mock interview questions specific to FAANG interviews in the context of MLOps.
 
+## Topics 
+
+1️⃣ : Introduction to MLOps
+2️⃣ : Version Control
+3️⃣ : Continuous Integration/Continuous Deployment (CI/CD)
+4️⃣ : Model Training Infrastructure
+5️⃣ : Model Deployment Strategies
+6️⃣ : Containerization
+7️⃣ : Model Monitoring
+8️⃣ : Model Governance and Compliance
+9️⃣ : Scalability and Resource Management
+1️⃣0️⃣ : Data Pipelines and Feature Engineering
+1️⃣1️⃣ : Experiment Tracking and Model Evaluation
+1️⃣2️⃣ : Model Serving and Inference
+1️⃣3️⃣ : Error Handling and Model Rollback
+1️⃣4️⃣ : Collaboration and Communication
+
+
 ## Getting Started
 
 To get started with learning MLOps for FAANG interviews, follow these steps:
