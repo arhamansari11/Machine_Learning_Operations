@@ -2,7 +2,7 @@
 
 ## Machine Learning Operations for FAANG Interviews
 
-### Overview
+## Overview
 
 This repository is dedicated to learning and mastering Machine Learning Operations (MLOps) concepts specifically tailored for FAANG (Facebook, Apple, Amazon, Netflix, Google) interviews. MLOps is a crucial aspect of deploying and managing machine learning models efficiently in production environments.
 
