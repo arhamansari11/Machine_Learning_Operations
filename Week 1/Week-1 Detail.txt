@@ -1,0 +1,17 @@
+1-> Data Sets : 
+	Data set is the collection of data. It's maybe in Structured or Unstructured form. 
+		e.g : 1-  Mysql is the example of Structured Dataset.   2- MongoDb database is the example of Unstructured Dataset.
+
+2-> Data Streaming :
+	Data Streaming refers to the continuos transfer of data from one point to the other in a steady flow.
+		Instead of transfer data at once. We transfer data in small peices or chunks.
+
+	-> FrameWork of Data Streaming :
+		1-> Apache Spark
+		2-> Apache Flink
+		3-> Apache Kafka
+			Note : There are many frameworks of Data Streaming but main are these.
+
+
+	
+
