@@ -1,3 +1,16 @@
+						******************************MLOP'S*************************************
+
+						*************************** Week-1 ********************************
+
+-> What is Machine Learning?
+
+- Collect, label, and clean datasets 
+- Analyze and visualize data 
+- Train and tune ML models 
+- Building a production pipeline for machine learning
+- Working with AWS ecosystem (Serverless service, Sagemaker, Storage)
+
+
 1-> Data Sets : 
 	Data set is the collection of data. It's maybe in Structured or Unstructured form. 
 		e.g : 1-  Mysql is the example of Structured Dataset.   2- MongoDb database is the example of Unstructured Dataset.
@@ -5,6 +18,7 @@
 2-> Data Streaming :
 	Data Streaming refers to the continuos transfer of data from one point to the other in a steady flow.
 		Instead of transfer data at once. We transfer data in small peices or chunks.
+			Transfer Data in chunks increase the speed , stability , reduces the network error.
 
 	-> FrameWork of Data Streaming :
 		1-> Apache Spark
@@ -13,5 +27,8 @@
 			Note : There are many frameworks of Data Streaming but main are these.
 
 
-	
-
+3-> Production PipeLine : 
+	In Simple words Production PipeLine is a big task that is divided into smaller task and assigned these smaller tasks to the team.
+		Production PipeLine are the stages of work 
+		e.g : In software Developement there are so many stages. Like : Requirements , Deisgning , Developement , Testing , Hosting , Maintaince
+			 Each of these stages involves different professionals and resources working together to bring the project to fruition
