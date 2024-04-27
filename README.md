@@ -17,7 +17,7 @@ This repository is dedicated to learning and mastering Machine Learning Operatio
 
 To get started with learning MLOps for FAANG interviews, follow these steps:
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your Local machine:
 
    ```bash
    git clone https://github.com/arhamansari11/Machine_Learning.git
