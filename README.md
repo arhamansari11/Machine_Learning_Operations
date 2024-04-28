@@ -11,7 +11,7 @@ This repository is dedicated to learning and mastering Machine Learning Operatio
 - **Notebooks**: Contains Jupyter notebooks covering various MLOps topics, including model deployment, monitoring, and scaling.
 - **Datasets**: Sample datasets used in the notebooks for hands-on practice.
 - **Resources**: Links to external resources such as articles, papers, and tutorials for further learning.
-- **Interview Prep**: Tips, guides, and mock interview questions specific to FAANG interviews in the context of MLOps.
+- **Interview Prep**: Tips, guides, and mock interview questions specific to FAANG interviews in the context of MLOp's.
 
 ## Topics 
 
